@@ -548,6 +548,7 @@
 											<br><br>
 
 											<ul>
+												<li><strong>Schedule : </strong>26th Oct : 3-5 pm </li>
 												<li><strong>Event Co-ordinator :</strong>Kanav Mahajan | Bhanu Dobriyal | Rahul Sharma </li>
 												<li><strong>Contact :</strong>+91-9796-805039 | +91-9697-680675 | +91-7298-327221</li>
 												
